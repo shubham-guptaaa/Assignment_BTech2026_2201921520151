@@ -7,7 +7,12 @@ This question involves creating a class `MessagePrinter` with a method `printMes
 - `MessagePrinter.java`: Contains the implementation of the `MessagePrinter` class.
 
 ## Implementation
-The `MessagePrinter` class has a method `printMessage` that takes a `String` parameter `msg` and prints "Hello <msg>".
+The `MessagePrinter` class has a method `printMessage` that takes a `String` parameter `msg` and prints "Hello + msg".
+
+## Concept
+The concept of `Object-Oriented Programming (OOP)` used to solve this question is `Encapsulation`.
+
+`Encapsulation` is demonstrated by defining a class `MessagePrinter` that contains a method `printMessage`. The method `encapsulates` the behavior of `printing a message`, and the class provides a way to interact with this behavior through its public method.
 
 ### Code
 ```java
